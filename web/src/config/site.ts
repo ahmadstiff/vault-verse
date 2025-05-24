@@ -25,10 +25,10 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/koalaterbang/hackathon/sui/degen",
-    twitter: "https://twitter.com/degen_meme_finance",
+    github: "https://github.com/ahmadstiff/vault-verse",
+    twitter: "https://twitter.com/",
     docs: "/docs",
-    discord: "https://discord.gg/degenmemefinance",
-    sponsor: "https://github.com/sponsors/koalaterbang",
+    discord: "https://discord.gg/",
+    sponsor: "https://github.com/",
   },
 };
