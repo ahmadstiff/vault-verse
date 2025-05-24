@@ -1,10 +1,10 @@
-# Magic Vault: The Metaphysical Financial Companion
+# Vault Verse: The Metaphysical Financial Companion
 
-![Magic Vault Banner](https://vault.magic.sui/images/banner.png)
+![Vault Verse Banner](https://vault.magic.sui/images/banner.png)
 
 ## 🔮 Overview
 
-**Magic Vault** is a revolutionary DApp built on the Sui blockchain that transforms your financial transactions into meaningful memories, personalized fortunes, and unique NFTs. Unlike traditional financial trackers, Magic Vault adds a metaphysical dimension to your financial journey, creating digital artifacts from your financial habits and rituals.
+**Vault Verse** is a revolutionary DApp built on the Sui blockchain that transforms your financial transactions into meaningful memories, personalized fortunes, and unique NFTs. Unlike traditional financial trackers, Vault Verse adds a metaphysical dimension to your financial journey, creating digital artifacts from your financial habits and rituals.
 
 ## ✨ Key Features
 
@@ -25,7 +25,7 @@
 
 ## 🔧 Technical Architecture
 
-Magic Vault combines powerful Sui Move smart contracts with an intuitive React frontend:
+Vault Verse combines powerful Sui Move smart contracts with an intuitive React frontend:
 
 ### Smart Contracts
 - **vault.move**: Core vault functionality
@@ -67,7 +67,7 @@ Transfer vaults to loved ones as gifts, sharing financial wisdom, rituals, and i
 
 ## 🌊 User Flow
 
-1. **Connect Wallet**: Use your Sui wallet to connect to the Magic Vault DApp
+1. **Connect Wallet**: Use your Sui wallet to connect to the Vault Verse DApp
 2. **Create Your Vault**: Name your vault, choose a color theme, and write your financial story
 3. **Record Memories**: Add financial transactions as memories with notes, rituals, and optional multipliers
 4. **Generate NFTs**: Create visual representations of your vault, specific memories, or generated fortunes
@@ -106,9 +106,9 @@ Transfer vaults to loved ones as gifts, sharing financial wisdom, rituals, and i
    sui client publish --gas-budget 10000000
    ```
 
-## 🌟 Why Magic Vault?
+## 🌟 Why Vault Verse?
 
-In a world where finance is often reduced to cold numbers and sterile charts, Magic Vault brings meaning, intention, and art to your financial life. It's not just about tracking numbers—it's about creating a sacred space for your financial journey, manifesting intentions through transactions, and building a visual legacy of your relationship with money.
+In a world where finance is often reduced to cold numbers and sterile charts, Vault Verse brings meaning, intention, and art to your financial life. It's not just about tracking numbers—it's about creating a sacred space for your financial journey, manifesting intentions through transactions, and building a visual legacy of your relationship with money.
 
 The fusion of financial tracking with NFT creation opens new possibilities for how we perceive, interact with, and share our financial stories.
 
@@ -117,5 +117,5 @@ Apache-2.0
 
 ---
 
-*Magic Vault: Where Finance Meets Magic*
+*Vault Verse: Where Finance Meets Magic*
 
