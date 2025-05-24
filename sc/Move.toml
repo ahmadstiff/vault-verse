@@ -1,0 +1,9 @@
+[package]
+name = "vault_verse"
+version = "0.0.1"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+vault_verse = "0x0"
